@@ -38,18 +38,14 @@ char *_strpbrk(char *s, char *accept)
 
 
 /**
+ * _strchr - locates a char in a string
  *
- *  * _strchr - locates a char in a string
+ * @s: string to be searched
  *
- *   * @s: string to be searched
+ * @c: char to be checked
  *
- *    * @c: char to be checked
- *
- *     *
- *
- *      * Return: pointer to the first occurence of c in s
- *
- *       */
+ * Return: pointer to the first occurence of c in s
+ */
 
 
 
